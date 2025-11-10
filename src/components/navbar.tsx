@@ -87,7 +87,7 @@ const Navbar = () => {
             <FaFacebookF className="w-4 h-4" />
           </a>
           <a
-            href="mailto:info@alraqi-alhadeth.com.ly"
+            href="mailto:info@alraqialhadeth.com.ly"
             target="_blank"
             rel="noopener noreferrer"
             className={`flex items-center justify-center w-9 h-9 rounded-full border transition ${

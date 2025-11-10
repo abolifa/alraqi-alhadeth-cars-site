@@ -233,10 +233,10 @@ const Contact = () => {
               <div className="flex items-center gap-2">
                 <Mail className="w-5 h-5 text-custom2" />
                 <a
-                  href="mailto:info@alraqi-alhadeth.com.ly"
+                  href="mailto:info@alraqialhadeth.com.ly"
                   className="text-muted-foreground underline underline-offset-2 hover:text-custom2"
                 >
-                  info@alraqi-alhadeth.com.ly
+                  info@alraqialhadeth.com.ly
                 </a>
               </div>
             </div>

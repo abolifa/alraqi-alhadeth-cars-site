@@ -59,7 +59,7 @@ const Footer = () => {
                 label: "Facebook",
               },
               {
-                href: "mailto:info@alraqi-alhadeth.com.ly",
+                href: "mailto:info@alraqialhadeth.com.ly",
                 icon: <FaEnvelope />,
                 label: "البريد الإلكتروني",
               },
@@ -131,10 +131,10 @@ const Footer = () => {
             <li className="flex items-center gap-3">
               <FaEnvelope className="text-custom1" />
               <a
-                href="mailto:info@alraqi-alhadeth.com.ly"
+                href="mailto:info@alraqialhadeth.com.ly"
                 className="hover:text-custom1 transition"
               >
-                info@alraqi-alhadeth.com.ly
+                info@alraqialhadeth.com.ly
               </a>
             </li>
           </ul>
