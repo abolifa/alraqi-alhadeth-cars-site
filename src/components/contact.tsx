@@ -80,14 +80,11 @@ const Contact = () => {
     setLoading(true);
     setError(false);
     try {
-      const res = await fetch(
-        "https://aalialmajdholding.com.ly/contact-mail.php",
-        {
-          method: "POST",
-          headers: { "Content-Type": "application/x-www-form-urlencoded" },
-          body: new URLSearchParams(formData as any).toString(),
-        }
-      );
+      const res = await fetch("https://eratech.com.ly/alraqialhadeth.php", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(formData as any).toString(),
+      });
       if (res.ok) {
         setSent(true);
         setFormData({
