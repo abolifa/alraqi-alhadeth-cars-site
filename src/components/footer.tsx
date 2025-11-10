@@ -179,7 +179,7 @@ const Footer = () => {
         </motion.div>
       </div>
       <div className="mt-16 text-center text-sm text-white bg-[#ec1540] border-t border-border py-6 flex items-center justify-center">
-        © {new Date().getFullYear()} مصنع المدى الصناعي – جميع الحقوق محفوظة.
+        © {new Date().getFullYear()} شركة الراقي الحديث – جميع الحقوق محفوظة.
       </div>
     </footer>
   );
